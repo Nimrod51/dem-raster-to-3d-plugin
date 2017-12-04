@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DEMRasterTo3D" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
