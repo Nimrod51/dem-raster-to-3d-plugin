@@ -19,4 +19,4 @@ C:\Users\<user>\.qgis2\python\plugins
 **************************************
 ## Instructions as a standalone code in QGIS Python Console
 
-Simply open the .py files in the root directory in QGIS, and change the input path to the GPX/Raster file, respectively for each code, and run the code. 
+Simply open the **DEMRasterPyConsole.py**	file in the root directory in the [QGIS Python Console](https://docs.qgis.org/2.18/en/docs/user_manual/plugins/python_console.html), and change the input path to the GPX/Raster file, respectively for each code, and run the code
