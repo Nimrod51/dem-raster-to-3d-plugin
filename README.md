@@ -11,7 +11,7 @@ You can run the script in two ways:
 
 1. Clone or download this repository and place items in a folder, e.g. "DEM-Raster-to-3D-Plugin"
 
-1. Copy folder to your QGIS plugin directory, typically under:   
+1. Copy folder to your QGIS plugin directory, on Windows this is typically:   
 
 C:\Users\yourusername\\.qgis2\python\plugins  
 
