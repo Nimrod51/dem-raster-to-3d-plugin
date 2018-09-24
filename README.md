@@ -4,7 +4,8 @@ This plugin can visualize a digital elevation model (DEM) raster file as a 3D fl
 You can run the script in two ways:  
 1. As a QGIS 2.X Plugin  
 2. As a standalone code in the QGIS Python Console  
-
+******************************************
+## Example
 <img src="/cube.gif?raw=true" width="500px">
 
 ******************************************
