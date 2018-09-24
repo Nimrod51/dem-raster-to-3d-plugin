@@ -1,11 +1,10 @@
-# DEM Raster to 3D   
+# DEM Raster to 3D Plot
 
 You can run the script in two ways:  
-A. As a QGIS 2.X Plugin  
-B. As a standalone code in the QGIS Python Console  
+1. As a QGIS 2.X Plugin  
+2. As a standalone code in the QGIS Python Console  
 
-<img src="/cube.gif?raw=true" width="600px">
-
+<img src="/cube.gif?raw=true" width="500px">
 
 ******************************************
 ## Instructions for running as a QGIS Plugin:  
