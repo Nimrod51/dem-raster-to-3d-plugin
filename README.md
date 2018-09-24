@@ -6,6 +6,9 @@ B. As a standalone code in the QGIS Python Console
 
 ![DEM Cube](https://i.imgur.com/Q4tu9iq.gif)
 
+<img src="/cube.gif?raw=true" width="200px">
+
+
 ******************************************
 ## Instructions for running as a QGIS Plugin:
 1. Unzip the folder in your QGIS plugin directory, for instance: 
