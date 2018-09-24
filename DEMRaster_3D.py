@@ -198,9 +198,9 @@ class DEMRasterTo3D:
 
         ##Open Raster
         in_path = os.path.join (raster_path)
+        print in_path
         test = gdal.Open(in_path)
         gt = test.GetGeoTransform()
-
 
         ##Data source & Band
         if test is None:
