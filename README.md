@@ -13,7 +13,7 @@ You can run the script in two ways:
 
 1. Copy folder to your QGIS plugin directory, typically under:   
 
-C:\Users\\<user>\.qgis2\python\plugins  
+C:\Users\yourusername\.qgis2\python\plugins  
 
 2. Open QGIS and enable the tool from Plugins>Manage and Install Plugins> ☑ "DEM Raster to 3D Plot"   
 
