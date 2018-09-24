@@ -1,4 +1,5 @@
 # DEM Raster to 3D Plot
+This plugin can visualize a digital elevation model (DEM) raster file as a 3D flying carpet to better understand landscape, using PyQGIS and Matplotlib. 
 
 You can run the script in two ways:  
 1. As a QGIS 2.X Plugin  
