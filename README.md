@@ -4,6 +4,8 @@ You can run the script in two ways:
 A. As a QGIS 2.X Plugin
 B. As a standalone code in the QGIS Python Console
 
+![Alt Text](https://i.imgur.com/Q4tu9iq.gif)
+
 ******************************************
 ## Instructions for running as a QGIS Plugin:
 1. Unzip the folder in your QGIS plugin directory, for instance: 
