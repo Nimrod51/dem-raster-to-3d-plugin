@@ -32,6 +32,9 @@ surf = ax.plot_surface(X, Y, dem, rstride=1, cstride=1, cmap=cm.terrain,linewidt
 
 plt.show()
 
+#Optionally save the image
+#plt.savefig("C:/Users/ngavish/Data/DEM_plot.jpg", dpi=100, format="jpg")
+
 ##Animate image 
 #for angle in range(0, 360):
 #    ax.view_init(30, angle)
