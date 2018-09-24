@@ -4,9 +4,7 @@ You can run the script in two ways:
 A. As a QGIS 2.X Plugin
 B. As a standalone code in the QGIS Python Console
 
-![DEM Cube](https://i.imgur.com/Q4tu9iq.gif)
-
-<img src="/cube.gif?raw=true" width="200px">
+<img src="/cube.gif?raw=true" width="600px">
 
 
 ******************************************
